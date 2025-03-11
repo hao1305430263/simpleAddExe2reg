@@ -1,0 +1,8 @@
+#include <windows.h>
+
+// 应用程序图标
+// ICON_APP ICON "app.ico"
+
+// 管理员权限请求清单
+1 24 "admin_manifest.manifest"
+
